@@ -2,8 +2,6 @@
 
 :mod:`pygame.locals`
 ====================
-
-.. module:: pygame.locals
    :synopsis: pygame constants
 
 | :sl:`pygame constants`
